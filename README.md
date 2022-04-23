@@ -1,7 +1,7 @@
 ##* Stanford *Projects
 Hello there！＼
 this holds my programming projects done during the period of Stanford course
-Watch my *[DEMO VIDEOS](W3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36B)*
 ##Project Source Codes:
 *[Hangman Game](https://drive.google.com/file/d/1AtkL8MnjFDd_Kg6vYiNn3Lh41Ml2rjRy/view?usp=sharing)
 *[Weather Master](https://drive.google.com/file/d/1llWBLXw5mLtMyvLlTxx518Q0OD4wEZ7b/view?usp=sharing)
